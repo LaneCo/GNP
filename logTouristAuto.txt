@@ -1,0 +1,5 @@
+2018/08/02 12:08:29 The policy was issued correctly with the number:  CG-25591941
+2018/08/02 12:08:37 The test passed
+2018/08/03 10:51:57 The test failed
+2018/08/03 11:59:44 The policy was issued correctly with the number:  CG-25591942
+2018/08/03 11:59:52 The test passed
